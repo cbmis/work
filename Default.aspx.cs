@@ -12,7 +12,7 @@ using System.Web.UI.WebControls;
 
 namespace LineNotify
 {
-    public partial class GetToken : System.Web.UI.Page
+    public partial class Default : System.Web.UI.Page
     {
         #region 申請LINE Notify給的資料
         private string _clientid = "UQ2uLDCqkG5iFFuIZyrCjp";

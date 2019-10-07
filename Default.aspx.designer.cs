@@ -10,7 +10,7 @@
 namespace LineNotify {
     
     
-    public partial class GetToken {
+    public partial class Default {
         
         /// <summary>
         /// form1 控制項。

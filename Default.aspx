@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="GetToken.aspx.cs" Inherits="LineNotify.GetToken" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Default.aspx.cs" Inherits="LineNotify.Default" %>
 
 <!DOCTYPE html>
 

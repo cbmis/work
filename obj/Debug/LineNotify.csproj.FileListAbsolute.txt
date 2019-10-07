@@ -1,0 +1,10 @@
+C:\Users\jay_chung\Desktop\Coding\project\LineNotify\LineNotify\bin\LineNotify.dll.config
+C:\Users\jay_chung\Desktop\Coding\project\LineNotify\LineNotify\bin\LineNotify.dll
+C:\Users\jay_chung\Desktop\Coding\project\LineNotify\LineNotify\bin\LineNotify.pdb
+C:\Users\jay_chung\Desktop\Coding\project\LineNotify\LineNotify\obj\Debug\LineNotify.csprojAssemblyReference.cache
+C:\Users\jay_chung\Desktop\Coding\project\LineNotify\LineNotify\obj\Debug\LineNotify.csproj.CoreCompileInputs.cache
+C:\Users\jay_chung\Desktop\Coding\project\LineNotify\LineNotify\obj\Debug\LineNotify.dll
+C:\Users\jay_chung\Desktop\Coding\project\LineNotify\LineNotify\obj\Debug\LineNotify.pdb
+C:\Users\jay_chung\Desktop\Coding\project\LineNotify\LineNotify\bin\Newtonsoft.Json.dll
+C:\Users\jay_chung\Desktop\Coding\project\LineNotify\LineNotify\bin\Newtonsoft.Json.xml
+C:\Users\jay_chung\Desktop\Coding\project\LineNotify\LineNotify\obj\Debug\LineNotify.csproj.CopyComplete
